@@ -16,7 +16,7 @@ Hadeeth Sharing Bot is a Python-based script that automatically fetches random H
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone hhttps://github.com/EthicalYuu/hadeeth-sharing-bot.git
+    git clone https://github.com/EthicalYuu/hadeeth-sharing-bot.git
     ```
 
 2. Install the required dependencies:
