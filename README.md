@@ -1,5 +1,11 @@
 # Hadeeth Sharing Bot
 
+> **⚠️ Note:**  
+> **This project is an old project created while I was learning programming.**  
+> The code does not follow modern best practices and may need refactoring.  
+> It serves as a learning example and is not maintained according to current standards.  
+> **However, it still works as expected.**
+
 ## Overview
 Hadeeth Sharing Bot is a Python-based script that automatically fetches random Hadeeth (Prophetic traditions) from the **Sunnah.com API** and posts them to a designated Facebook page. The bot utilizes automation tools to schedule daily posts, allowing effortless sharing of valuable knowledge.
 
